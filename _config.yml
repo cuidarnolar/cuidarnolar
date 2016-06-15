@@ -9,16 +9,17 @@ baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://cuidarnolar.pt" # the base hostname & protocol for your site
 
 # User setting
-owner: HILC S.A.
+owner: HILQSaude Lda
 email: geral@cuidarnolar.pt
 facebook_username:
 twitter_username:
 #github_username:
+linkedin_username:
 address: 
   - line: RUA DOS PINHEIROS 202
   - line: ABÓBODA, Portugal
   # Feel free to add more lines here 
-telephone: 210064532
+telephone: +351 964411438
 copyright: Cuidarnolar.pt
 
 # API settings

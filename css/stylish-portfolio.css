@@ -172,7 +172,11 @@ hr.small {
 .about {
     padding: 5px 0;
 }
+/* QuemSomos */
 
+.quemsomos {
+    padding: 70px 0;
+}
 /* Services */
 
 .services {
