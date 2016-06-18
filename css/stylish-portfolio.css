@@ -96,7 +96,7 @@ hr.small {
 }
 
 .sidebar-nav li {
-    text-indent: 20px;
+    text-indent: 10px;
     line-height: 40px;
 }
 
@@ -186,8 +186,10 @@ hr.small {
 .service-item {
     margin-bottom: 30px;
 }
-.brand-image{
+
+.navigation-icon{
       margin-right: 15px;
+      margin-left: 0px;
 }
 /* Callout */
 
