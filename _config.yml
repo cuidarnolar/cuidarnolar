@@ -9,7 +9,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://cuidarnolar.pt" # the base hostname & protocol for your site
 
 # User setting
-owner: HILQSaude Lda
+owner: HILQ - Saude Lda
 email: geral@cuidarnolar.pt
 facebook_username:
 twitter_username:
