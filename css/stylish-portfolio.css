@@ -62,7 +62,7 @@ li a {  vertical-align:middle; }
 }
 
 /* Custom Horizontal Rule */
-hr{
+hr.blue{
   border-top: 1px solid #00a3de;
   }
 hr.small {
