@@ -255,3 +255,9 @@ hr.small {
 footer {
     padding: 100px 0;
 }
+
+.center-justified {
+    margin: 0 auto;
+    text-align: justify;  
+}
+
